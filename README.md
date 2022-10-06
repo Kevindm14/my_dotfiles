@@ -3,6 +3,7 @@
 ## Contents
 
 - VIM (Neovim) config
+- ZSH (zsh) config
 
 ## Neovim setup
 
